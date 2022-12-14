@@ -1,0 +1,23 @@
+#alias
+alias ls="exa --icons -a --group-directories-first"
+alias bm="bashmount"
+alias sdn="sudo shutdown -h now"
+alias sr="sudo reboot"
+alias p="sudo pacman"
+alias nf="neofetch"
+alias nb="newsboat"
+alias lf="lfub"
+alias scn='cd $SC_DOC_DIR && nvim `date +"%Y%m%d"`.scd -c "SCNvimStart"'
+alias jk='jackd -d alsa -d hw:0 -r 48000 -p 1024 -n 3'
+
+# info
+alias what='journalctl -f'
+alias services='systemctl --type=service'
+
+# misc
+alias 1='cd -'
+alias cd..='cd ..'
+alias cd...='cd ../..'
+alias cd....='cd ../../..'
+alias cd.....='cd ../../../..'
+alias cd......='cd ../../../../..'
