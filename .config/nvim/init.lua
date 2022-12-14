@@ -1,6 +1,0 @@
-require('colorscheme')
-require('keymaps')
-require('nvim-tree-config')
-require('plugins')
-require('settings')
-require('tidal')
