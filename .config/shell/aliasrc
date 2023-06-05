@@ -6,7 +6,7 @@ alias sr="sudo reboot"
 alias p="sudo pacman"
 alias nf="neofetch"
 alias nb="newsboat"
-alias lf="lfub"
+alias lf="lfrun"
 alias scn='cd $SC_DOC_DIR && nvim `date +"%Y%m%d"`.scd -c "SCNvimStart"'
 alias jk='jackd -d alsa -d hw:0 -r 48000 -p 1024 -n 3'
 
