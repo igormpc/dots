@@ -8,6 +8,26 @@ window#waybar {
     color: #ffffff;
 }
 
+#workspaces button.active {
+    background-color: #064000;
+    color: #ffffff;
+}
+
+#workspaces button:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+#workspaces button.focused {
+    background-color: #64727D;
+    color: #ffffff;
+}
+
+#workspaces button.urgent {
+    background-color: #eb4d4b;
+    color: #ffffff;
+}
+
 #clock,
 #battery,
 #cpu,
@@ -120,8 +140,8 @@ label:focus {
 }
 
 #wireplumber {
-    background-color: #fff0f5;
-    color: #000000;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 #wireplumber.muted {
@@ -129,8 +149,8 @@ label:focus {
 }
 
 #custom-media {
-    background-color: #66cc99;
-    color: #2a5c45;
+    background-color: #000000;
+    color: #ffffff;
     min-width: 100px;
 }
 
