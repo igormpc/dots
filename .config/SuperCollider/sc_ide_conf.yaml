@@ -125,22 +125,22 @@ IDE:
   mainWindow:
     detached: !QVariantMap
       documents-dock: ""
-      help-dock: AAHZ0MsAAwAAAAACrwAAABQAAAU/AAAC6gAAAq8AAAAUAAAFPwAAAuoAAAAAAAAAAAVUAAACrwAAABQAAAU/AAAC6g==
+      help-dock: AAHZ0MsAAwAAAAAAAAAAABQAAAKNAAACxQAAAAAAAAAUAAACjQAAAsUAAAAAAgAAAAVWAAAAAAAAABQAAAKNAAACxQ==
       post-dock: ""
-    geometry: AdnQywADAAAAAAAAAAAAAAAABVMAAAL+AAAAAAAAAAAAAAVTAAAC/gAAAAAAAAAABVQAAAAAAAAAAAAABVMAAAL+
-    state: AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAGQAbwBjAHUAbQBlAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAF8A////AAAAAQAAA+cAAALN/AIAAAAC+wAAABIAaABlAGwAcAAtAGQAbwBjAGsAAAAAFAAAAgEAAAATAP////sAAAASAHAAbwBzAHQALQBkAG8AYwBrAQAAABYAAALNAAAATQD///8AAAFsAAACzQAAAAEAAAACAAAAAQAAAAL8AAAAAA==
+    geometry: AdnQywADAAD///9CAAAAFAAABGsAAALF////QgAAABQAAAVVAAADawAAAAACAAAABVb///9CAAAAFAAABGsAAALF
+    state: AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAGQAbwBjAHUAbQBlAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAF8A////AAAAAQAAANwAAAKA/AIAAAAC+wAAABIAaABlAGwAcAAtAGQAbwBjAGsAAAAAFAAAAgEAAAATAP////sAAAASAHAAbwBzAHQALQBkAG8AYwBrAQAAABYAAAKAAAAATQD///8AAARNAAACgAAAAAEAAAACAAAAAQAAAAL8AAAAAA==
   postWindow:
     lineWrap: true
     scrollback: 1000
   recentDocuments: !QVariantList
-    - /home/igor/.local/share/SuperCollider/downloaded-quarks/HyperDisCo/examples/hyperdisco_loadMe.scd
-    - /home/igor/docs/scdocs/vst-plugins-fnd.scd
-    - /home/igor/docs/scdocs/vst plugins.scd
-    - /home/igor/code/isms/example.scd
-    - /home/igor/docs/scdocs/Grrr/GRKeyboard.scd
-    - /home/igor/docs/scdocs/Grrr/Grrr-specs-patterns-help.scd
-    - /home/igor/docs/scdocs/Grrr/grrr-walkthrough.scd
-    - /home/igor/docs/scdocs/Grrr/grrr-walkthrough (2).scd
-    - /home/igor/docs/scdocs/Grrr/grrr-lines-stepseq16.scd
-    - /home/igor/docs/scdocs/Grrr/grrr-lines-stepseq2.scd
+    - /home/igor/nanotestok2.scd
+    - /home/igor/docs/scdocs/lukiss-20230921-fasteddie-acid.scd
+    - /home/igor/flin-230719.scd
+    - /home/igor/midi-rngz.scd
+    - /home/igor/st-iGNUcius.scd
+    - /home/igor/nathan-notam-meeting.scd
+    - /home/igor/flak-additive-brass.scd
+    - /home/igor/low-range-rm-is-am.scd
+    - /home/igor/pen3Dtest.scd
+    - /home/igor/scItunes.scd
   startWithSession: last
