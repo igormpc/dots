@@ -1,10 +1,11 @@
-#alias
 alias ls="eza --icons -a --group-directories-first"
 alias bm="bashmount"
 alias sdn="sudo shutdown -h now"
 alias sr="sudo reboot"
 alias p="sudo pacman"
-alias nf="neofetch"
+alias ff="fastfetch"
 alias nb="newsboat"
-alias lf="lfrun"
+alias hh="Hyprland"
+alias duf="duf -hide special"
+alias scide='WAYLAND_DISPLAY= scide'
 alias scn='cd $SC_DOC_DIR && nvim `date +"%Y%m%d"`.scd -c "SCNvimStart"'
