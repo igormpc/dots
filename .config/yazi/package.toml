@@ -1,0 +1,7 @@
+[[plugin.deps]]
+use = "GianniBYoung/rsync"
+rev = "ed7b7f9"
+hash = "bf05f8a280bbbdd723968f243421274"
+
+[flavor]
+deps = []
