@@ -1,0 +1,23 @@
+{
+  "lfnoise2": {
+    "prefix": "lfnoise2",
+    "body": [
+      "LFNoise2.${1:kr}(${2:1})$0"
+    ]
+  },
+  "dust": {
+    "prefix": "dust",
+    "body": [
+      "d.free; d={Dust.ar(rrand(${1:0.1}, ${2:10}), ${3:0.7})!${4:2}}.play;
+      d.release(${5:10});$0"
+    ]
+  },
+  "klang": {
+    "prefix": "klang",
+    "body": [
+      "k.free; k={Klang.ar(`[Array.rand(${1:5},${2:1000},${3:12000}),nil,nil],1,0)!2 * 0.01}.play;
+      k.release(${4:0});$0"
+
+    ]
+  }
+}

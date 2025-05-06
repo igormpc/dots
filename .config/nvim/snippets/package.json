@@ -1,0 +1,8 @@
+{
+  "name": "personal-snippets",
+  "contributes": {
+    "snippets": [
+      { "language": "supercollider", "path": "./supercollider.json" }
+    ]
+  }
+}
