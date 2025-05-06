@@ -3,7 +3,7 @@ export PATH="/home/igor/.cargo/bin:$PATH"
 
 export EDITOR="nvim"
 export VISUAL="nvim"
-export TERMINAL="ghostty"
+export TERMINAL="foot"
 export BROWSER="firefox"
 export READER="zathura"
 export WM="Hyprland"
